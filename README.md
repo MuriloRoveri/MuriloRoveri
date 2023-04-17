@@ -1,4 +1,4 @@
-### Opa, Eu sou Murilo Roveri Soares, atualmente estudando Engenharia de Software na FIAP
+### Aoba, Eu sou Murilo Roveri Soares, atualmente estudando Engenharia de Software na FIAP
 
 
 <picture>
