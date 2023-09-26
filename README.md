@@ -1,17 +1,10 @@
 ### Aoba, Eu sou Murilo Roveri Soares, atualmente estudando Engenharia de Software na FIAP
 
 
-<picture>
-<source 
- srcset="https://github-readme-stats.vercel.app/api?username=MuriloRoveri&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-srcset="https://github-readme-stats.vercel.app/api?username=MuriloRoveri&show_icons=true&theme=midnight-dark"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=MuriloRoveri&show_icons=true&theme=midnight-dark" />
-</picture>
+<div>
+  <a href="[https://github.com/MuriloRoveri](https://github.com/MuriloRoveri)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MuriloRoveri&show_icons=true&theme=midnight-dark&include_all_commits=true&count_private=true"/>
+</div>
 
 
 <div style="display: inline_block"><br>
