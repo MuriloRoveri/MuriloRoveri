@@ -7,7 +7,7 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=MuriloRoveri&show_icons=true&theme=midnight-dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=MuriloRoveri&show_icons=true?theme=midnight-dark"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=MuriloRoveri&show_icons=true" />
